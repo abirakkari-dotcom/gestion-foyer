@@ -1,0 +1,6 @@
+4
+id|numero|type|etage|prix_mensuel|capacite|nb_occupants|statut
+1|A101|Simple|1|250.00|1|1|Occupee
+2|A102|Double|1|180.00|2|1|Disponible
+3|B201|Triple|2|140.00|3|2|Disponible
+4|B202|Simple|2|250.00|1|0|Maintenance

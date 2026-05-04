@@ -1,0 +1,5 @@
+3
+id|etudiant_id|chambre_id|montant|date_paiement|mois|mode|statut
+1|1|1|250.00|01/04/2026|Avril|Virement|Paye
+2|2|2|180.00|05/04/2026|Avril|Especes|En_attente
+3|3|3|140.00|10/03/2026|Mars|Cheque|Retard

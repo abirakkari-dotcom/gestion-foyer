@@ -1,0 +1,5 @@
+3
+id|etudiant_id|chambre_id|date|type|description|priorite|statut
+1|1|1|02/04/2026|Plomberie|Fuite d'eau sous le lavabo|Haute|En_cours
+2|2|2|03/04/2026|Bruit|Bruit excessif la nuit dans le couloir|Moyenne|Ouverte
+3|3|3|28/03/2026|Electricite|Prise electrique defaillante|Haute|Resolue
